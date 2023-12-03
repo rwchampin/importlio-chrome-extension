@@ -1,0 +1,15 @@
+{
+    "name": "Importlio Amazon Dropshipping Product Importer for Shopify",
+    "description": "Import Amazon products to your Shopify store with a single click.",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_title": "Importlio"
+    },
+    "icons": {
+      "16": "logo-16.png",
+      "48": "logo-48.png",
+      "128": "logo-128.png"
+    }
+  }
